@@ -8,5 +8,8 @@ Includes paper books, ebooks, and showcase books. Supports stock management, out
 - Inventory manager
 - Purchase system with shipping and email delivery
 - Console output for testing
+## Sample Output
+
+![Sample Output](Screenshot.png)
 
 Developed by **Yasmeen Yehia**
